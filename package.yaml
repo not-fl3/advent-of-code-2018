@@ -24,7 +24,7 @@ dependencies:
 - hashmap
 - parsec
 - dates
-
+- array
 
 library:
   source-dirs: src

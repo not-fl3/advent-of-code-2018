@@ -25,6 +25,7 @@ dependencies:
 - parsec
 - dates
 - array
+- parallel
 
 library:
   source-dirs: src
